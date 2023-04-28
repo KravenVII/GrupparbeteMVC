@@ -3514,11 +3514,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\fredr\\Documents\\Web projects\\GrupparbeteMVCNew\\GrupparbeteMVCNew\\GrupparbeteMVC\\GrupparbeteMVC.csproj",
+      "projectUniqueName": "C:\\Users\\fredr\\GrupparbeteMVCNew\\GrupparbeteMVC\\GrupparbeteMVC.csproj",
       "projectName": "GrupparbeteMVC",
-      "projectPath": "C:\\Users\\fredr\\Documents\\Web projects\\GrupparbeteMVCNew\\GrupparbeteMVCNew\\GrupparbeteMVC\\GrupparbeteMVC.csproj",
+      "projectPath": "C:\\Users\\fredr\\GrupparbeteMVCNew\\GrupparbeteMVC\\GrupparbeteMVC.csproj",
       "packagesPath": "C:\\Users\\fredr\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\fredr\\Documents\\Web projects\\GrupparbeteMVCNew\\GrupparbeteMVCNew\\GrupparbeteMVC\\obj\\",
+      "outputPath": "C:\\Users\\fredr\\GrupparbeteMVCNew\\GrupparbeteMVC\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\fredr\\AppData\\Roaming\\NuGet\\NuGet.Config",
