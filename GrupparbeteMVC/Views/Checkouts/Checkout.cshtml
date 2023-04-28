@@ -1,0 +1,32 @@
+﻿@model GrupparbeteMVC.Models.Order
+
+
+<h1> Thanks for your order! </h1>
+
+
+
+DeliveryAdress:
+@Html.DisplayFor(model => model.DeliveryAdress)
+<br />
+<br />
+Name:
+@Html.DisplayFor(model => model.Name)
+ @Html.DisplayFor(model => model.LastName)
+<br />
+<br />
+Products:
+<br />
+Products:
+<ul>
+    @foreach (var product in Model.Products)
+    {
+                    <li>@product.Name</li>
+    }
+</ul>
+<br />
+}
+<br />
+Total Cost:
+@Html.DisplayFor(model => model.OrderTotal)
+
+<h2> Enjoy your pizza! </h2>

@@ -1,0 +1,24 @@
+﻿@model List<CartItem>
+<h1> Empty the cart </h1>
+
+@foreach (CartItem Item in Model)
+{
+
+
+    @Html.DisplayFor(modelItem => Item.ProductId)
+    <br />
+    @Html.DisplayFor(modelItem => Item.CartItemTotal) <span>kr</span>
+    <br />
+    <span> Antal: </span> @Html.DisplayFor(modelItem => Item.Quantity)
+    <br />
+
+    <div> ----------------------------------- </div>
+}
+<br />
+Are you sure you want to empty the cart?
+<br />
+<a asp-action="DeleteAll"> Empty the cart </a>
+<br />
+<a asp-action="Index"> Undo </a>
+
+

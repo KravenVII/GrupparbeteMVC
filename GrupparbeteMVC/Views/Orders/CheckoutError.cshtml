@@ -1,0 +1,17 @@
+﻿@model GrupparbeteMVC.Models.Order
+
+<h1> Checkout </h1>
+<br />
+<h4> One or more fields was not filled out properly. Please enter your information again. </h4>
+
+<form asp-action="PlaceOrder" method="POST">
+    Name: <input type="text" name="Name"></input> <br />
+    Last Name: <input type="text" name="LastName"></input> <br />
+    Delivery Adress: <input type="text" name="DeliveryAdress"></input> <br />
+    CardNumber: <input type="text" name="CardNumber"></input> <br />
+    Expiration date: <input type="date" name="CardExpirationDate"></input> <br />
+    CVC: <input type="text" name="CardCVC"></input> <br />
+
+    <input type="submit" value="Place Order" />
+</form>
+

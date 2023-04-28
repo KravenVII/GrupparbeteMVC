@@ -1,0 +1,17 @@
+﻿@model List<Order>
+<h1>List of all the orders </h1>
+
+<br />
+
+@foreach (Order Item in Model)
+{
+
+            <span> Order Nr: </span>
+    @Html.DisplayFor(modelItem => Item.OrderId)
+
+
+
+        <a asp-action="Details" asp-route-id="@Item.OrderId">View Details</a>
+        <p> ------------------ </p>
+
+}

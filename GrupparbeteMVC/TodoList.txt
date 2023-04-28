@@ -1,0 +1,6 @@
+﻿Orders:
+
+Behöver jag en viewmodel för att visa antalet produkter beställda på orders? eller kommer jag åt det med orderproducts many to many tabellen?
+
+Cart:
+Skriv ut namnet på produkten i Delete.cshtml

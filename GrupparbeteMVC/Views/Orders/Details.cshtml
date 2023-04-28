@@ -1,0 +1,32 @@
+﻿@model GrupparbeteMVC.Models.ViewModels.OrderViewModel
+
+<h1> Thank you for your order! </h1>
+<br />
+<br />
+
+<h3> Details for order nr @Html.DisplayFor(model => model.OrderId)</h3>
+
+
+<br />
+Name:
+@Html.DisplayFor(model => model.Name) 
+@Html.DisplayFor(model => model.LastName)
+<br />
+Delivery Adress:
+@Html.DisplayFor(model => model.DeliveryAdress)
+<br />
+Products:
+<ul>
+    @for (int i = 0; i < Model.Products.Count; i++)
+    {
+        <li>@Model.Products[i].Name x @Model.Quantities[i]</li>
+        <li>@Model.Products[i].SEKPrice kr x @Model.Quantities[i]</li> 
+      <br />
+    }
+</ul>
+
+Total amount of products ordered: 
+@Html.DisplayFor(model => model.TotalQuantity)
+<br />
+Total Cost:
+@Html.DisplayFor(model => model.OrderTotal)Kr
