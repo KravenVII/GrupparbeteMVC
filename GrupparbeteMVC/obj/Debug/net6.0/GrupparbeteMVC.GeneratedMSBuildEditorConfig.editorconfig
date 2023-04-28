@@ -9,93 +9,93 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = GrupparbeteMVC
 build_property.RootNamespace = GrupparbeteMVC
-build_property.ProjectDir = C:\Users\fredr\Documents\Web projects\GrupparbeteMVCNew\GrupparbeteMVCNew\GrupparbeteMVC\
+build_property.ProjectDir = C:\Users\fredr\GrupparbeteMVCNew\GrupparbeteMVC\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\fredr\Documents\Web projects\GrupparbeteMVCNew\GrupparbeteMVCNew\GrupparbeteMVC
+build_property.MSBuildProjectDirectory = C:\Users\fredr\GrupparbeteMVCNew\GrupparbeteMVC
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/fredr/Documents/Web projects/GrupparbeteMVCNew/GrupparbeteMVCNew/GrupparbeteMVC/Views/Carts/Delete.cshtml]
+[C:/Users/fredr/GrupparbeteMVCNew/GrupparbeteMVC/Views/Carts/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FydHNcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/fredr/Documents/Web projects/GrupparbeteMVCNew/GrupparbeteMVCNew/GrupparbeteMVC/Views/Carts/DeleteAllConfirm.cshtml]
+[C:/Users/fredr/GrupparbeteMVCNew/GrupparbeteMVC/Views/Carts/DeleteAllConfirm.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FydHNcRGVsZXRlQWxsQ29uZmlybS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/fredr/Documents/Web projects/GrupparbeteMVCNew/GrupparbeteMVCNew/GrupparbeteMVC/Views/Carts/Index.cshtml]
+[C:/Users/fredr/GrupparbeteMVCNew/GrupparbeteMVC/Views/Carts/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FydHNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/fredr/Documents/Web projects/GrupparbeteMVCNew/GrupparbeteMVCNew/GrupparbeteMVC/Views/Checkouts/Checkout.cshtml]
+[C:/Users/fredr/GrupparbeteMVCNew/GrupparbeteMVC/Views/Checkouts/Checkout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hlY2tvdXRzXENoZWNrb3V0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/fredr/Documents/Web projects/GrupparbeteMVCNew/GrupparbeteMVCNew/GrupparbeteMVC/Views/Checkouts/CheckoutError.cshtml]
+[C:/Users/fredr/GrupparbeteMVCNew/GrupparbeteMVC/Views/Checkouts/CheckoutError.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hlY2tvdXRzXENoZWNrb3V0RXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/fredr/Documents/Web projects/GrupparbeteMVCNew/GrupparbeteMVCNew/GrupparbeteMVC/Views/Checkouts/Index.cshtml]
+[C:/Users/fredr/GrupparbeteMVCNew/GrupparbeteMVC/Views/Checkouts/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hlY2tvdXRzXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/fredr/Documents/Web projects/GrupparbeteMVCNew/GrupparbeteMVCNew/GrupparbeteMVC/Views/Home/Index.cshtml]
+[C:/Users/fredr/GrupparbeteMVCNew/GrupparbeteMVC/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/fredr/Documents/Web projects/GrupparbeteMVCNew/GrupparbeteMVCNew/GrupparbeteMVC/Views/Home/Privacy.cshtml]
+[C:/Users/fredr/GrupparbeteMVCNew/GrupparbeteMVC/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/fredr/Documents/Web projects/GrupparbeteMVCNew/GrupparbeteMVCNew/GrupparbeteMVC/Views/Orders/Checkout.cshtml]
+[C:/Users/fredr/GrupparbeteMVCNew/GrupparbeteMVC/Views/Orders/Checkout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJzXENoZWNrb3V0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/fredr/Documents/Web projects/GrupparbeteMVCNew/GrupparbeteMVCNew/GrupparbeteMVC/Views/Orders/CheckoutError.cshtml]
+[C:/Users/fredr/GrupparbeteMVCNew/GrupparbeteMVC/Views/Orders/CheckoutError.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJzXENoZWNrb3V0RXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/fredr/Documents/Web projects/GrupparbeteMVCNew/GrupparbeteMVCNew/GrupparbeteMVC/Views/Orders/Details.cshtml]
+[C:/Users/fredr/GrupparbeteMVCNew/GrupparbeteMVC/Views/Orders/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJzXERldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/fredr/Documents/Web projects/GrupparbeteMVCNew/GrupparbeteMVCNew/GrupparbeteMVC/Views/Orders/Index.cshtml]
+[C:/Users/fredr/GrupparbeteMVCNew/GrupparbeteMVC/Views/Orders/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJzXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/fredr/Documents/Web projects/GrupparbeteMVCNew/GrupparbeteMVCNew/GrupparbeteMVC/Views/Products/Details.cshtml]
+[C:/Users/fredr/GrupparbeteMVCNew/GrupparbeteMVC/Views/Products/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/fredr/Documents/Web projects/GrupparbeteMVCNew/GrupparbeteMVCNew/GrupparbeteMVC/Views/Products/DetailsDollarPrice.cshtml]
+[C:/Users/fredr/GrupparbeteMVCNew/GrupparbeteMVC/Views/Products/DetailsDollarPrice.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcRGV0YWlsc0RvbGxhclByaWNlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/fredr/Documents/Web projects/GrupparbeteMVCNew/GrupparbeteMVCNew/GrupparbeteMVC/Views/Products/Index.cshtml]
+[C:/Users/fredr/GrupparbeteMVCNew/GrupparbeteMVC/Views/Products/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/fredr/Documents/Web projects/GrupparbeteMVCNew/GrupparbeteMVCNew/GrupparbeteMVC/Views/Products/IndexDollarPrice.cshtml]
+[C:/Users/fredr/GrupparbeteMVCNew/GrupparbeteMVC/Views/Products/IndexDollarPrice.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcSW5kZXhEb2xsYXJQcmljZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/fredr/Documents/Web projects/GrupparbeteMVCNew/GrupparbeteMVCNew/GrupparbeteMVC/Views/Shared/Error.cshtml]
+[C:/Users/fredr/GrupparbeteMVCNew/GrupparbeteMVC/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/fredr/Documents/Web projects/GrupparbeteMVCNew/GrupparbeteMVCNew/GrupparbeteMVC/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/fredr/GrupparbeteMVCNew/GrupparbeteMVC/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/fredr/Documents/Web projects/GrupparbeteMVCNew/GrupparbeteMVCNew/GrupparbeteMVC/Views/_ViewImports.cshtml]
+[C:/Users/fredr/GrupparbeteMVCNew/GrupparbeteMVC/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/fredr/Documents/Web projects/GrupparbeteMVCNew/GrupparbeteMVCNew/GrupparbeteMVC/Views/_ViewStart.cshtml]
+[C:/Users/fredr/GrupparbeteMVCNew/GrupparbeteMVC/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/fredr/Documents/Web projects/GrupparbeteMVCNew/GrupparbeteMVCNew/GrupparbeteMVC/Views/Shared/_Layout.cshtml]
+[C:/Users/fredr/GrupparbeteMVCNew/GrupparbeteMVC/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-4ypcx0mgw9
